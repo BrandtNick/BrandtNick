@@ -1,5 +1,8 @@
 ### Hi, welcome to my profile 👋
 
+## Languages and Tools:
+JavaScript | TypeScript | React | Node.js | MongoDB | Git | Docker | DevOps
+
 <!--
 **BrandtNick/BrandtNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
